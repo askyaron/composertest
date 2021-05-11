@@ -1,0 +1,21 @@
+
+{
+  "name": "aaron/test",
+  "description": "In order to study composer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "aaron",
+      "email": "aaron@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  }
+}
