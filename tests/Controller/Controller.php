@@ -4,6 +4,6 @@ namespace \Tests\Controller;
 class Controller
 {
    public function index(){
-       echo '123';
+       echo '234';
    }
 }
