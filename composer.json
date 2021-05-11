@@ -1,6 +1,6 @@
 
 {
-  "name": "askyaron-test",
+  "name": "askyaron/test",
   "description": "In order to study composer",
   "license": "MIT",
   "authors": [
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Tests\\": "tests/"
+      "Askyaron\\": "src/Askyaron"
     }
   }
 }
