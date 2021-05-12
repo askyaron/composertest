@@ -8,6 +8,6 @@ class AaClient
 {
     public static function index()
     {
-        echo 1234;
+        echo 124;
     }
 }

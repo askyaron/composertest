@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Askyaron\\": "src/Askyaron"
+      "Askyaron\\": "./src/"
     }
   }
 }
